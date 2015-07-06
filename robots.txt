@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://50bucksinfo.github.io/sts/sitemap.xml 
+Sitemap: http://50bucks.info/sts/sitemap.xml 

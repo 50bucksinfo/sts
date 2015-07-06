@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Short Term Stay in Melbourne]]></title>
-  <link href="http://50bucksinfo.github.io/sts/atom.xml" rel="self"/>
-  <link href="http://50bucksinfo.github.io/sts/"/>
-  <updated>2015-07-07T07:32:57+10:00</updated>
-  <id>http://50bucksinfo.github.io/sts/</id>
+  <link href="http://50bucks.info/sts/atom.xml" rel="self"/>
+  <link href="http://50bucks.info/sts/"/>
+  <updated>2015-07-07T07:36:11+10:00</updated>
+  <id>http://50bucks.info/sts/</id>
   <author>
     <name><![CDATA[shorttermstay@50bucks.info]]></name>
     <email><![CDATA[shorttermstay@50bucks.info]]></email>
